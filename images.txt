@@ -1,1 +1,2 @@
-gcr.io/cadvisor/cadvisor:v0.47.0
+grafana/grafana:11.0.0
+grafana/loki:3.0.0
